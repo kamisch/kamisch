@@ -1,4 +1,4 @@
 ### Hello World 👋
 
-- 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/chase-chengtao-wang)
+- 📫 If you are interested in connecting you can reach me at: [Linkedin](https://www.linkedin.com/in/chase-chengtao-wang)
 
