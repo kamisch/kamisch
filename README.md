@@ -3,8 +3,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chasewyt@gmail.com)](mailto:chasewyt@gmail.com)
 
 Hello World 👋
+# Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kamisch&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
+
+# GitHub Readme Stats
+
 ![Kamisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamisch&count_private=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamisch&langs_count=3%hide=HLSL)](https://github.com/kamisch)  
 
 
