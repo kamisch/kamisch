@@ -5,6 +5,6 @@
 Hello World 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kamisch&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
-![Kamisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamisch&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamisch&langs_count=8&layout=compact)](https://github.com/kamisch)  
+![Kamisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamisch&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamisch&langs_count=8)](https://github.com/kamisch)  
 
 
