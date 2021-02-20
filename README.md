@@ -1,5 +1,6 @@
 ### Chase Wang @Kamisch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chase-chengtao-wang/)](https://www.linkedin.com/in/chase-chengtao-wang/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chasewyt@gmail.com)](mailto:chasewyt@gmail.com)
 
 Hello World 👋
 
