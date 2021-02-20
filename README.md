@@ -9,6 +9,6 @@ Hello World 👋
 
 # GitHub Readme Stats
 
-![Kamisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamisch&count_private=true&show_icons=true&line_height=20&bg_color=#282a36) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamisch&langs_count=6%hide=HLSL&layout=compact)](https://github.com/kamisch)
+![Kamisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamisch&count_private=true&show_icons=true&line_height=20&bg_color=282a36) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamisch&langs_count=6%hide=HLSL&layout=compact)](https://github.com/kamisch)
 
 
