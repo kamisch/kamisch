@@ -11,7 +11,7 @@ Hello World 👋
 ![Kamisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamisch&count_private=true&show_icons=true&line_height=20&bg_color=282a36&icon_color=a2e6fa&text_color=f0f1f5&title_color=de87be) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamisch&langs_count=6%hide=HLSL&layout=compact&bg_color=282a36&icon_color=a2e6fa&text_color=f0f1f5&title_color=de87be)](https://github.com/kamisch)
 
 # Github Steam Stats
-![top played games list](https://githubsteamstats.herokuapp.com/api/getOwnedGames/76561198134424238?bgColor=282a36&textColor=de87be&boarderColor=000000&boarderWidth=1&row=1&col=6)
+![top played games list](https://githubsteamstats.herokuapp.com/api/getOwnedGames/76561198134424238?bgColor=282a36&textColor=de87be&boarderColor=000000&boarderWidth=1&row=2&col=3)
 
 ![steam profile](https://githubsteamstats.herokuapp.com/api/getPlayerSummaries/76561198134424238?bgColor=282a36&textColor=de87be&boarderColor=000000&boarderWidth=4)
 
