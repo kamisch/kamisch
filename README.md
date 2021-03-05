@@ -6,7 +6,7 @@ Hello World 👋
 #### Languages and Frameworks
 <p align="left">
 <img alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img alt="FastApi" width = "50px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"/>
+<img alt="FastApi" width = "80px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"/>
 <img alt="Flask" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -23,7 +23,7 @@ Hello World 👋
 #### Databases
 <p align="left">
 <img alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img alt="Snowflake" width="50px" src="https://2gb6lt1mlqep3cowtt3w2itr-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/snowflake-1024x538.png" />
+<img alt="Snowflake" width="80px" src="https://2gb6lt1mlqep3cowtt3w2itr-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/snowflake-1024x538.png" />
 </p>
 
 #### Developer Tools
