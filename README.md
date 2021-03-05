@@ -2,6 +2,34 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chasewyt@gmail.com)](mailto:chasewyt@gmail.com)
 
 Hello World 👋
+
+#### Languages and Frameworks
+
+<img alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img alt="FastApi" width = "32px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"/>
+<img alt="Flask" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img alt="Angular" width "32px" src = "https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png"/>
+
+#### Clouds and Platforms
+
+<img alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/docker/docker.png"/> 
+<img alt="Jenkins" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/jenkins/jenkins.png"/>
+<img alt="Nginx" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/nginx/nginx.png"/>
+<img alt="OpenShift" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png"/>
+
+#### Databases
+
+<img alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img alt="Snowflake" width="32px" src="https://2gb6lt1mlqep3cowtt3w2itr-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/snowflake-1024x538.png" />
+
+#### Developer Tools
+
+<img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Bitbucket" width="32px" src="https://poeditor.com/blog/wp-content/uploads/2014/06/bitbucket-logo.png"/>
+
 # Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kamisch&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
