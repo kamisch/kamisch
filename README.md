@@ -12,6 +12,7 @@ Hello World 👋
 <img alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img alt="Angular" width = "32px" src = "https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png"/>
 </p>
+
 #### Clouds and Platforms
 <p align="left">
 <img alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/docker/docker.png"/> 
