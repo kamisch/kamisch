@@ -4,7 +4,9 @@
 
 <h3 align="center"></h3>
 <p align="center">Hi! I'm Chase. I'm currently working at a Health Tech company, working mostly in backend and infra. 
-  
+  https://img.shields.io/github/stars/kamisch?style=social
+
+![](https://img.shields.io/github/stars/kamisch?style=flat&logo=JavaScript&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=db645c)
