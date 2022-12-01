@@ -1,6 +1,6 @@
 <p align="center"><img width="300" src="background1.gif" /></p>
 
-<a href="mailto:ct.chase.wang@gmail.com">Email</a>
+<p align="center"><a href="mailto:ct.chase.wang@gmail.com">Email</a></p>
 
 <h3 align="center"></h3>
 <p align="center">Hi! I'm Chase. I'm currently working at a Health Tech company, working mostly in backend and infra. 
