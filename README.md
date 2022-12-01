@@ -11,11 +11,11 @@
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=Node.js&logoColor=white&color=db645c)
-![](https://img.shields.io/badge/SQL-SQLServer-informational?style=flat&logo=SQLServer&logoColor=white&color=db645c)
+![](https://img.shields.io/badge/SQL-SQLServer-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=db645c)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&logoColor=white&color=db645c)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=db645c)
   
