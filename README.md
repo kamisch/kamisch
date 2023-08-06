@@ -7,6 +7,7 @@
 
 ![](https://img.shields.io/github/stars/kamisch?style=flat&logo=GitHub&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=db645c)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=Node.js&logoColor=white&color=db645c)
