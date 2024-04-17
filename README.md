@@ -3,7 +3,7 @@
 <p align="center"><a href="mailto:ct.chase.wang@gmail.com">Email</a></p>
 
 <h3 align="center"></h3>
-<p align="center">Hi! I'm Chase. I'm currently working at a Health Tech company, working mostly in backend and infra. 
+<p align="center">The intersection of what you love and what you are good at gives you Passion.  
 
 ![](https://img.shields.io/github/stars/kamisch?style=flat&logo=GitHub&logoColor=white&color=db645c)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=db645c)
